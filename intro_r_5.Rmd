@@ -60,7 +60,7 @@ Para trabajar con estos, el paquete `tidyverse` es de gran ayuda.
 
 --
 
-**Nota:** utilizaremos intercambiablemente el concepto _tibble_ y _data frame_ pues, el primero es la implementación de los _data frames_ dentro del _tidyverse_
+**Nota:** la implementación de los _data frames_ en el _tidyverse_ es llamada _tibble_
 
 --
 
