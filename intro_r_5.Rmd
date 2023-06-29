@@ -25,7 +25,7 @@ class: center, middle
 
 ## Capacitación en R y herramientas de productividad
 
-## Proyecto Estratégico Servicios Compartidos para la Producción Estadística
+## Proyecto Ciencia de Datos
 
 ## Introducción a _data frames_ y _tidyverse_
 
@@ -60,6 +60,10 @@ Para trabajar con estos, el paquete `tidyverse` es de gran ayuda.
 
 --
 
+**Nota:** utilizaremos intercambiablemente el concepto _tibble_ y _data frame_ pues, el primero es la implementación de los _data frames_ dentro del _tidyverse_
+
+--
+
 **¿Qué es tidyverse?** Es una serie de paquetes para el trabajo con _data frames_ que funcionan en harmonía, pues fueron programados con la misma filosofía y diseño de datos.
 
 --
@@ -67,25 +71,21 @@ Para trabajar con estos, el paquete `tidyverse` es de gran ayuda.
 Incluye paquetes como:
 
   <p float="left">
-    <img src="imagenes/logo_dplyr.png" style="width:15%; margin-right:20px;"  />
-  <img src="imagenes/logo_tidyr.png"style="width:15%; margin-right:20px;" /> 
-  <img src="imagenes/logo_purrr.png"style="width:15%; margin-right:20px;" /> 
+    <img src="imagenes/logo_dplyr.png" style="width:13%; margin-right:20px;"  />
+  <img src="imagenes/logo_tidyr.png"style="width:13%; margin-right:20px;" /> 
+  <img src="imagenes/logo_purrr.png"style="width:13%; margin-right:20px;" /> 
 
+  <img src="imagenes/logo_readxl.png" style="width:13%; margin-right:20px;"  />
+  <img src="imagenes/logo_readr.png"style="width:13%; margin-right:20px;" /> 
+  <img src="imagenes/logo_haven.png"style="width:13%; margin-right:20px;" /> 
   
   
+   
+
 
 </p>
 
-  <p float="left">
-  <img src="imagenes/logo_readxl.png" style="width:15%; margin-right:20px;"  />
-  <img src="imagenes/logo_readr.png"style="width:15%; margin-right:20px;" /> 
-  <img src="imagenes/logo_haven.png"style="width:15%; margin-right:20px;" /> 
-  
-  
-   Listado completo de paquetes <a href="https://tidyverse.tidyverse.org/">aquí</a>
-
-
-</p>
+Listado completo de paquetes [aquí](https://tidyverse.tidyverse.org/)
 
 ---
 template: diapo-basica
