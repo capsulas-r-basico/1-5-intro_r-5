@@ -58,7 +58,6 @@ Como mencionamos, los _data frames_ son la estructura de datos a la que nos enfr
 
 Para trabajar con estos, el paquete `tidyverse` es de gran ayuda.
 
-
 --
 
 **Nota:** utilizaremos intercambiablemente el concepto _tibble_ y _data frame_ pues, el primero es la implementación de los _data frames_ dentro del _tidyverse_
